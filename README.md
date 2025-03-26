@@ -47,8 +47,8 @@ The **Multiclass Fish Image Classification** project leverages **deep learning**
 | EfficientNetB0 | 17.1%              | 2.309          |
 
 ## 🎬 Demo Video
-[![Demo Video](video_thumbnail.png)](video_placeholder_link)
-*Click the image to watch the demo video*
+[![Demo Video]https://www.linkedin.com/posts/vasuki27_deeplearning-ai-machinelearning-activity-7310567296802979840-XgkV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
+*Click here to watch the demo video*
 
 ## 🔄 How to Run the Project
 ### **🔹 Install Dependencies**

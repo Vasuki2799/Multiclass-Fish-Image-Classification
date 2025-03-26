@@ -1,6 +1,6 @@
 # 🦈 Multiclass Fish Image Classification
 
-![Project Image]<img width="1440" alt="Screenshot 2025-03-26 at 12 13 37 PM" src="https://github.com/user-attachments/assets/08c038bc-fe53-45a3-951f-47dcd64e06b1" />
+<img width="1440" alt="Screenshot 2025-03-26 at 12 13 37 PM" src="https://github.com/user-attachments/assets/08c038bc-fe53-45a3-951f-47dcd64e06b1" />
 
 
 ## 📚 Project Overview
@@ -47,7 +47,7 @@ The **Multiclass Fish Image Classification** project leverages **deep learning**
 | EfficientNetB0 | 17.1%              | 2.309          |
 
 ## 🎬 Demo Video
-[![Demo Video]https://www.linkedin.com/posts/vasuki27_deeplearning-ai-machinelearning-activity-7310567296802979840-XgkV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
+https://www.linkedin.com/posts/vasuki27_deeplearning-ai-machinelearning-activity-7310567296802979840-XgkV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
 *Click here to watch the demo video*
 
 ## 🔄 How to Run the Project

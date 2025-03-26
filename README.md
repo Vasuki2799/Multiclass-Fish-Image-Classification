@@ -48,7 +48,7 @@ The **Multiclass Fish Image Classification** project leverages **deep learning**
 
 ## 🎬 Demo Video
 https://www.linkedin.com/posts/vasuki27_deeplearning-ai-machinelearning-activity-7310567296802979840-XgkV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
-*Click here to watch the demo video*
+
 
 ## 🔄 How to Run the Project
 ### **🔹 Install Dependencies**
